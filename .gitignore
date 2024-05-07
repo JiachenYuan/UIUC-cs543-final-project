@@ -2,4 +2,4 @@
 **/data/*
 **/checkpoint/**
 **/logs/**
-**/loss_and_accuracies/**
+**/losses_and_accuracies/**
