@@ -1,3 +1,5 @@
-**/*.pt
-**/cifar10
-**/saved_ipynb
+**/__pycache__
+**/data/*
+**/checkpoint/**
+**/logs/**
+**/loss_and_accuracies/**
